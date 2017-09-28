@@ -1,1 +1,1 @@
-# Assignements for AI programming - 96573
+## AI programming - 96573
